@@ -5,7 +5,7 @@ I have fun creating and experimenting with projects that challenges me to think 
 My hobbies include reading, coding, hiking, and video games.
 
 ## Programming Languages and Frameworks:
-[javascript.pdf](https://github.com/MAT-2/MAT-2/files/12842706/javascript.pdf)
+![image](https://github.com/MAT-2/MAT-2/assets/98721159/d2059831-e1af-4fdc-8b44-639c35c8f6a6)
 
 
 <!--
