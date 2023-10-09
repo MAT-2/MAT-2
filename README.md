@@ -5,8 +5,7 @@ I have fun creating and experimenting with projects that challenges me to think 
 My hobbies include reading, coding, hiking, and video games.
 
 ## Programming Languages and Frameworks:
-![image](https://github.com/MAT-2/MAT-2/assets/98721159/d2059831-e1af-4fdc-8b44-639c35c8f6a6)
-
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,git,jquery,mongodb,react,ts,nodejs,express)](https://skillicons.dev)
 
 <!--
 **MAT-2/MAT-2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
