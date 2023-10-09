@@ -7,10 +7,6 @@ My hobbies include reading, coding, hiking, and video games.
 ## Programming Languages and Frameworks:
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,git,jquery,mongodb,react,ts,nodejs,express)](https://skillicons.dev)
 
-## Linkedin
-[![My Skills](https://skillicons.dev/icons?i=linkedin)]([https://skillicons.dev](https://www.linkedin.com/in/matthew-casey-295579178/))
-
-
 <!--
 **MAT-2/MAT-2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
