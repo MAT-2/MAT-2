@@ -1,6 +1,6 @@
 ### Hello there! 👋
 
-I am a full-stack web developer currently enrolled at University of Austin's Coding Bootcamp, an accelerated course that trains people to get relevant skills needed for real-world problem solving for web development careers.
+I am a junior web developer. I recently have achieved my foundations as a programmer from University of Texas at Austin's coding bootcamp.
 I have fun creating and experimenting with projects that challenges me to think outside of the box, as well as learning new and exciting ways to help create dynamic websites.
 My hobbies include reading, coding, hiking, and video games.
 
